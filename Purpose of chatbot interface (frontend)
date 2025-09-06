@@ -1,0 +1,18 @@
+The purpose of the web application 
+"Simple Chatbot Interface" is to
+provide a basic and visually 
+appealing platform where users can 
+type and send messages to a chatbot 
+in an easy, interactive way. Since
+it is frontend only, it focuses 
+purely on the user interface, using
+HTML, CSS, and JavaScript to display
+messages and create a smooth chatting 
+experience. This application is
+designed to demonstrate how a chatbot
+layout works, making it a good starting 
+point for learning or later connecting 
+to a backend or AI service. It aims 
+to be simple, responsive, and
+user-friendly for anyone to use.
+
